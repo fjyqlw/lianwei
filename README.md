@@ -1,1 +1,1 @@
-[简历](/lianwei/README.md ':include')
+[自我介绍](/lianwei/README.md ':include')
