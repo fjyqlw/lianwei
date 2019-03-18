@@ -1,7 +1,7 @@
 # 个人信息
-<div style="float:right">
-    <img src="assets/lw.jpg" width="100">
-</div>
+
+
+[自我介绍](../assets/head.md ':include')
 
  - 练威/男/1993
  - 本科/海南师范大学/计算机科学与技术专业 （2012/9~2016/7）
